@@ -1,0 +1,6 @@
+{
+  "name": "CRA DESIGN",
+  "description": "Luxury Digital Design Studio - متجر رقمي فاخر لتصاميم التطبيقات، الفيديوهات، الأفلام والمواقع تحت إدارة Maestro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
